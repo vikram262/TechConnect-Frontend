@@ -82,44 +82,7 @@ The project is built using the following technologies:
 
     * [Razorpay Checkout](https://razorpay.com/docs/api/payments/checkout/)
 
-## Project Structure
 
-The project follows a standard React application structure:
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Body.jsx
-│   │   ├── Chat.jsx
-│   │   ├── Connections.jsx
-│   │   ├── EditProfile.jsx
-│   │   ├── Feed.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Login.jsx
-│   │   ├── NavBar.jsx
-│   │   ├── Premium.jsx
-│   │   ├── Profile.jsx
-│   │   ├── Requests.jsx
-│   │   └── UserCard.jsx
-│   ├── utils/
-│   │   ├── appStore.js
-│   │   ├── conectionSlice.js
-│   │   ├── constants.js
-│   │   ├── feedSlice.js
-│   │   ├── requestSlice.js
-│   │   ├── socket.js
-│   │   └── userSlice.js
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-└── tailwind.config.js
-├── vite.config.js
 
 ## Setup and Installation
 
